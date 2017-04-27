@@ -1,6 +1,7 @@
 ﻿using System;
 using RosylnCore;
-
+using Microsoft.CodeAnalysis;
+using Microsoft.CodeAnalysis.CSharp;
 
 namespace RosylnCore
 {
