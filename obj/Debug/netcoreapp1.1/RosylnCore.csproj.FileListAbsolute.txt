@@ -1,0 +1,8 @@
+c:\Temp\RosylnCore\bin\Debug\netcoreapp1.1\RosylnCore.deps.json
+c:\Temp\RosylnCore\bin\Debug\netcoreapp1.1\RosylnCore.runtimeconfig.json
+c:\Temp\RosylnCore\bin\Debug\netcoreapp1.1\RosylnCore.runtimeconfig.dev.json
+c:\Temp\RosylnCore\bin\Debug\netcoreapp1.1\RosylnCore.dll
+c:\Temp\RosylnCore\bin\Debug\netcoreapp1.1\RosylnCore.pdb
+c:\Temp\RosylnCore\obj\Debug\netcoreapp1.1\RosylnCore.AssemblyInfo.cs
+c:\Temp\RosylnCore\obj\Debug\netcoreapp1.1\RosylnCore.dll
+c:\Temp\RosylnCore\obj\Debug\netcoreapp1.1\RosylnCore.pdb
