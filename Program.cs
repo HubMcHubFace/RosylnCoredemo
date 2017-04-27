@@ -1,7 +1,6 @@
 ﻿using System;
 using RosylnCore;
 
-
 namespace RosylnCore
 {
     class Program
