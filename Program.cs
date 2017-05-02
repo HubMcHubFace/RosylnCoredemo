@@ -3,6 +3,7 @@ using System;
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
 
+//testing checkins
 namespace RosylynCore
 {
     class Program
