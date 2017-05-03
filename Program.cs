@@ -1,6 +1,4 @@
-﻿using RosylynCore;
-using System;
-using Microsoft.CodeAnalysis;
+﻿using System;
 using Microsoft.CodeAnalysis.CSharp;
 
 //testing checkins
