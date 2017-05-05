@@ -23,8 +23,8 @@ namespace RosylynCore
 ";
             var node = CSharpSyntaxTree.ParseText(models).GetRoot();
             var viewModel = ViewModelGeneration.GenerateViewModel(node);
-
-            if (viewModel != null)
+            //is viewmodel null
+            if (viewModel != null) 
             {
                 Console.WriteLine(viewModel.ToFullString());
             }
