@@ -12,7 +12,9 @@ namespace RosylynCore
     {
         public static void GenerateAssemply()
         {
-            const string code = @"using System;
+            const string code = 
+            
+@"using System;
 using System.IO;
 
 namespace RosylynCore
